@@ -1,3 +1,3 @@
 # FixMyCity
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/JDXakaSNK/FixMyCity)
+[Connecting realities, be part of the community ⚡️](https://stackblitz.com/~/github.com/JDXakaSNK/FixMyCity)
